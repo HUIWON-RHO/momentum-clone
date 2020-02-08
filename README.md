@@ -13,4 +13,4 @@
 
  [side project of JS momentum-clone DAY:10](https://codesandbox.io/s/empty-blueprint-o4y97)
  
- [side project of JS momentum-clone DAY:12](https://codesandbox.io/s/empty-blueprint-1ddqy)
+ [side project of JS momentum-clone DAY:12 Calculator](https://codesandbox.io/s/empty-blueprint-1ddqy)
