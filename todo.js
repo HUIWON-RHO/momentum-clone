@@ -22,11 +22,15 @@ function saveToDos() {
 }
 
 function paintToDo(text) {
+  if (toDos.length > 7) {
+    alert("To do List Maximum 8😝");
+    return;
+  }
   const li = document.createElement("li");
   const delBtn = document.createElement("button");
   const span = document.createElement("span");
   const newId = toDos.length + 1;
-  delBtn.innerHTML = "❌";
+  delBtn.innerHTML = "✔";
   delBtn.addEventListener("click", deleteToDo);
   span.innerText = text;
   li.appendChild(delBtn);
