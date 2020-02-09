@@ -4,7 +4,7 @@
  
  <img src="https://github.com/HUIWON-RHO/momentum-clone/blob/master/images/preview.JPG" width="200"><img src="https://github.com/HUIWON-RHO/momentum-clone/blob/master/images/preview2.JPG" width="200">
  
- # Side projects I made during learning🌱
+ # Side projects made during learning🌱
  
  [side project of JS momentum-clone DAY:3](https://codesandbox.io/s/day-three-blueprint-4wp6n)
  
