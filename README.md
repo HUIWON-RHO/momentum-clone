@@ -2,8 +2,7 @@
  momentum-clone-JSBasic
  👉[Check it here!](https://huiwon-rho.github.io/momentum-clone/)
  
- <img src="https://github.com/HUIWON-RHO/momentum-clone/blob/master/images/preview.JPG" width="200">
- <img src="https://github.com/HUIWON-RHO/momentum-clone/blob/master/images/preview2.JPG" width="200">
+ <img src="https://github.com/HUIWON-RHO/momentum-clone/blob/master/images/preview.JPG" width="200"><img src="https://github.com/HUIWON-RHO/momentum-clone/blob/master/images/preview2.JPG" width="200">
  
  # Side projects I made during learning🌱
  
