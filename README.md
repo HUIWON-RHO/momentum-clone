@@ -1,6 +1,6 @@
 # momentum-clone🌳
  momentum-clone-JSBasic
- https://huiwon-rho.github.io/momentum-clone/
+ 👉[Check it here!](https://huiwon-rho.github.io/momentum-clone/)
  
  # Side projects I made during learning🌱
  
