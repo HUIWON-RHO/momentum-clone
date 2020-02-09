@@ -14,10 +14,10 @@
  
  [side project of JS momentum-clone DAY:8 To Do List](https://codesandbox.io/s/empty-blueprint-0nz3n)
  
- ![Preview Image of side project](https://github.com/HUIWON-RHO/momentum-clone/blob/master/images/previewDay8.JPG height = "300")
+ ![Preview Image of side project](https://github.com/HUIWON-RHO/momentum-clone/blob/master/images/previewDay8.JPG, height = "300")
 
  [side project of JS momentum-clone DAY:10](https://codesandbox.io/s/empty-blueprint-o4y97)
  
  [side project of JS momentum-clone DAY:12 Calculator](https://codesandbox.io/s/empty-blueprint-1ddqy)
  
- ![Preview Image of side project](https://github.com/HUIWON-RHO/momentum-clone/blob/master/images/previewDay12.JPG width ="300")
+ ![Preview Image of side project](https://github.com/HUIWON-RHO/momentum-clone/blob/master/images/previewDay12.JPG, width ="300")
