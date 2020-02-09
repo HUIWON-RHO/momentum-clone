@@ -1,4 +1,4 @@
-# momentum-clone🌳
+# Momentum-clone🌳
  momentum-clone-JSBasic
  👉[Check it here!](https://huiwon-rho.github.io/momentum-clone/)
  
